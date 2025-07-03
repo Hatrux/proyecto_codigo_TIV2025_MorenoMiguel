@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=1.5
+plotly>=5.10
+numpy
+matplotlib
+python-dateutil
+requests
+scipy
+seaborn
+os
